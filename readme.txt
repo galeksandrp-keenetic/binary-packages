@@ -1,0 +1,1 @@
+﻿Репозитарий пакетов переехал на http://code.google.com/p/zyxel-keenetic-packages
